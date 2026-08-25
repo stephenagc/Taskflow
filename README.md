@@ -1,2 +1,3 @@
-Extraia o projeto
-Execute o index.html
+-Extraia o projeto
+
+-Execute o index.html
